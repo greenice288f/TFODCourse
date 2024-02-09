@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cigarette</folder>
+	<filename>bbf16c54-6ace-4718-b5a1-a13dedcb5021.jpg</filename>
+	<path>C:\Users\balin\Desktop\images\collectedimages\Cigarette\bbf16c54-6ace-4718-b5a1-a13dedcb5021.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>673</xmin>
+			<ymin>1019</ymin>
+			<xmax>1515</xmax>
+			<ymax>1247</ymax>
+		</bndbox>
+	</object>
+</annotation>

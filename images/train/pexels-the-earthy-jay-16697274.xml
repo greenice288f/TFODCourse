@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cigarette</folder>
+	<filename>pexels-the-earthy-jay-16697274.jpg</filename>
+	<path>C:\Users\balin\Desktop\images\collectedimages\Cigarette\pexels-the-earthy-jay-16697274.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3619</width>
+		<height>5428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1967</xmin>
+			<ymin>2920</ymin>
+			<xmax>2125</xmax>
+			<ymax>3529</ymax>
+		</bndbox>
+	</object>
+</annotation>

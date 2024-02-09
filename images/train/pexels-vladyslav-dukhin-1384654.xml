@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cigarette</folder>
+	<filename>pexels-vladyslav-dukhin-1384654.jpg</filename>
+	<path>C:\Users\balin\Desktop\images\collectedimages\Cigarette\pexels-vladyslav-dukhin-1384654.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2510</xmin>
+			<ymin>1907</ymin>
+			<xmax>2889</xmax>
+			<ymax>2590</ymax>
+		</bndbox>
+	</object>
+</annotation>
