@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>pexels-brenda-lelis-2899803.jpg</filename>
+	<path>C:\Users\balin\Desktop\uni\TFODCourse\Tensorflow\workspace\images\collectedimages\V\pexels-brenda-lelis-2899803.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>173</ymin>
+			<xmax>283</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>pexels-bianca-salgado-4288278.jpg</filename>
+	<path>C:\Users\balin\Desktop\uni\TFODCourse\Tensorflow\workspace\images\collectedimages\V\pexels-bianca-salgado-4288278.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>891</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>401</ymin>
+			<xmax>617</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

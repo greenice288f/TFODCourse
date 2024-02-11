@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>pexels-anfisa-eremina-2183910.jpg</filename>
+	<path>C:\Users\balin\Desktop\uni\TFODCourse\Tensorflow\workspace\images\collectedimages\V\pexels-anfisa-eremina-2183910.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>474</ymin>
+			<xmax>379</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+</annotation>

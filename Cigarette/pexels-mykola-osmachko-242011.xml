@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cigarette</folder>
+	<filename>pexels-mykola-osmachko-242011.jpg</filename>
+	<path>C:\Users\balin\Desktop\uni\TFODCourse\Tensorflow\workspace\images\collectedimages\Cigarette\pexels-mykola-osmachko-242011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>865</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>507</ymin>
+			<xmax>799</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

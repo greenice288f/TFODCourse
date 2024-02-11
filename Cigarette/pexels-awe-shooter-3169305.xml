@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>pexels-awe-shooter-3169305.jpg</filename>
+	<path>C:\Users\balin\Desktop\uni\TFODCourse\Tensorflow\workspace\images\collectedimages\V\pexels-awe-shooter-3169305.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>322</ymin>
+			<xmax>216</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cigarette</folder>
+	<filename>pexels-orest-sv-2313282.jpg</filename>
+	<path>C:\Users\balin\Desktop\uni\TFODCourse\Tensorflow\workspace\images\collectedimages\Cigarette\pexels-orest-sv-2313282.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>959</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>488</ymin>
+			<xmax>337</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>

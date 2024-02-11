@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cigarette</folder>
+	<filename>pexels-marcelo-moreira-2045171.jpg</filename>
+	<path>C:\Users\balin\Desktop\uni\TFODCourse\Tensorflow\workspace\images\collectedimages\Cigarette\pexels-marcelo-moreira-2045171.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>335</ymin>
+			<xmax>502</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

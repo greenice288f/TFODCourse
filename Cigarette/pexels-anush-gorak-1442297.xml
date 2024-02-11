@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>pexels-anush-gorak-1442297.jpg</filename>
+	<path>C:\Users\balin\Desktop\uni\TFODCourse\Tensorflow\workspace\images\collectedimages\V\pexels-anush-gorak-1442297.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>251</ymin>
+			<xmax>393</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>
